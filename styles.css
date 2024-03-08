@@ -1,0 +1,24 @@
+.corsim {
+    color:rgb(233, 102, 194)
+}
+
+.corsim_hexadecimal {
+    color:rgb(190, 43, 43)
+}
+
+.cor_rgba {
+    color:rgb(124, 223, 67)
+}
+
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+#bloquinho {
+    height: 200px;
+    width: 300px;
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
