@@ -1,0 +1,56 @@
+h1 {
+    font-family: Arial;
+}
+
+h2 {
+    font-family:'Trebuchet MS';
+}
+
+h3 {
+    font-family:'Arial';
+}
+
+.texto {
+    font-family:'Victor Mono, 'Comic Sans', 'sans-serif';
+}
+
+#paragrafo02 {
+    font-family: fantasy;
+}
+
+#estilo01 {
+    font-style: italic;
+}
+
+#estilo02 {
+    font-style: oblique;
+}
+
+#peso01 {
+    font-weight: bold;
+}
+
+#peso02 {
+    font-family:'Trebuchet MS',
+    font-weight: bold;
+}
+
+.tamanho04 {
+    font-size: 0.5rem;
+}
+
+.variante01 {
+    font-variant: small-caps;
+}
+
+.linha-altura {
+
+}
+
+.espaço_letra {
+
+}
+
+#estilo03{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
